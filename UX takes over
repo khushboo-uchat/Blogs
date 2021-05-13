@@ -1,0 +1,88 @@
+As promised I am back with one more interesting conversation as part of my weekly blog series. You might be wondering that why I am calling it conversation when it is only me writing on the blog. Well, because I have always assumed that you are sitting in front of me( but at 1 meter distance as per safety standards..!!! ) and listening to what I am saying in this blog (You might say What an imagination !! ) You might have correctly guessed from the title what it is all about.
+
+
+
+UX means "User Experience". It is not just two words but it is equivalent to thousands of books. It is simple and complicated at the same time ( just like Marriage ). You will like it a lot until it comes to implement within your project ( or in your life).
+
+
+
+As per old school thinking, back end was always important and it was believed that all user need is "work to be done". If functionality works fine then we are good to go. If you are one of them then its time to change your thinking. Back end is really pushed at back seat and UX/UI has taken a driving seat. As technology evolves and lots of options are available to user, 'Customer is the King' saying seems to be true never than before. If you don't understand your user then you are going to lose him because there are other product which has functionality as well as good user experience.
+
+
+
+Let me take you straight to the core without speaking a single word.
+
+
+
+
+
+
+
+
+
+-  It helps you figure out your goals and target audience.
+
+
+
+Above diagram says it all. You can't just wake up one day and start making a software without understanding what you really need, who will be your users, what exactly your user wants and how can you help them achieving the goal easily with the software along with technical constraints . It is also important how user feels when he/she is interacting with your website. A good user experience is always blended in background of good interface. Your UI should be so intuitive that user understands naturally how to navigate. UX and UI go hand in hand. Your users can be from diverse backgrounds and making them all happy is tough job.
+
+
+
+If you can make it natural for users to do things that you want them to do then you are pro in UX.
+
+
+
+- It helps you save time and money.
+
+Before going for actual software development if you know exactly what user wants and how can you achieve it by planning properly then it will save you lots of time. There will be less changes in your software at a later stage and your website can have a lasting impact on user. For any organization when less development effort is there than estimated then it is converted into profit in a very short span of time.
+
+
+
+- It gives you the vision and clear roadmap for your software
+
+If you really understand your user and his requirement then you have a clear vision about the scope of the future development and roadmap about how you are going to proceed for the same.
+
+
+
+Let's dive straight into statistics to make this talk really interesting. In today's world with increased mobile browsing, it is more important to focus on better user experience on mobile as well. As per one survey for mobile users,
+
+
+
+79% users will switch to other website if they do not find the mobile friendly website.
+As compared to web, there is 5 times higher probability for mobile user to leave the task or website if experience is not up to the mark
+52% users wont visit the site again which is not mobile friendly.
+90% users stopped using the app due to poor performance
+86% users uninstalled at least one app due to poor experience of UI
+
+
+Last two points are so obvious and I guarantee that you have done the same so many times.
+
+
+
+Being evolved from front end developer, I give very much importance to user experience rather than just delivering something which nobody really wants. I strongly believe that "User should not wrestle with your website when he/she really lands on home page".
+
+
+
+So take a pause and ask yourself the following questions if you are software developer.
+
+
+
+- Why are you making it ? Do you really need it ?
+
+-  Who is your target audience ? Do you know what exactly they need ?
+
+-  Are you really making your user's life easy by providing this software ?
+
+
+
+If all answers are positive then you are in right direction otherwise you should take a step back and start from figuring out the requirement by different UX tools. One of them is UX survey which lays the foundation of the journey of figuring out the what your user exactly wants.
+
+
+
+- What will be the minimum features user want to get the task complete ?
+
+- How do you perform the current task right now and what is the part which is really painful?
+
+- If you give the same functionality then what are the areas where user wants to see the changes ?
+
+- What is the benchmark with which you will compare our software ?  For eg existing product or process user is using
