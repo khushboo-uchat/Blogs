@@ -1,0 +1,54 @@
+As a result of distributed ledger learning journey, I am supposed to share my thoughts over blockchain technology and how it can be useful in practical use-case. I thought to take it one step ahead and write a blog about it so that it can reach to wider audience.
+
+
+
+In 2008, when the whole world was struggling with recession and financial crisis, somewhere in one corner of the world A person (Or group of persons may be) named Satoshi Nakamoto has invented a ledger system for crypto currency 'Bitcoin'. In simple words, you can consider blockchain as a database where record can not be deleted as well as updated. If you want to update anything then copy of the record is created with updated value but still old record exists in the system for maintaining the history.
+
+
+
+Blockchain has a huge crowd around it that cherishes and admires its capabilities. It can be useful in many of the industries and one of them is Banking & Finance. We have already seen how cryptocurrencies has revolutionized the industry and the power it brings to the table as truly peer to peer currency. By end of 2020, 92% of United States and  European and U.S financial and banking institutions have started blockchain technology adoption. The major reason behind it is that this technology is able to reduce the cost of banking infrastructure by 30%. The key areas where Blockchain is being adopted are
+
+
+
+Peer to Peer Transfer System
+
+
+      When any person wants to send some money to other person internationally then lots of middle parties get involved and it is really tedious process. There are lots of challenges in this process including exposure of sensitive data to third party, third party authentication issues and charges at each and every stage of the process. Blockchain brings power to eliminate all third parties and enables the use of a decentralized ledger system for peer-to-peer money transfers. Moreover blockchain money transfer happens in real-time so the receiver can instantly access the money once it is transferred.
+
+
+
+
+
+
+
+Trading Platforms
+
+
+       When it comes to trading activities, still lots of activities we do on paper or on call and records are maintained in form of physical paper and whenever required people spend time in search of the particular record. So overall loots of manual efforts are involved. Blockchain can revolutionize this space if we have the blockchain enabled trading platform. It will reduce the time consumed in a manual process, bureaucracy, and paperwork as there will be no need to maintain multiple copies of trading data with a blockchain system, and information will be available in secured digital documents.
+
+
+
+Fund Raising By Blockchain
+
+
+    The financial industry is driven crazy whenever there is a big fund raising process as it includes lots of complicated activities like collaboration, take part in wide length meetings with partners, long negotiation on equity and valuation, and wish to exchange. Blockchain has made this process fast and easy by providing alternatives of Initial Public Offering (IPO) which is called Initial Coin Offering (ICO).
+
+
+
+Blockchain & Hedge Funds
+   
+
+     The hedge fund is the investment partnership that includes a group of investors and a fund manager, which involves limited partners. However, these people are usually traders and are mainly focused on increasing investor returns and reducing the chances of loss. In the recent couple of years, cryptocurrencies have doubled the hedge fundraising. Actually, a decentralized mechanism caters to an open platform for investors to participate with more transparency.
+
+From the above the advantages of block chain is clearly visible. But If we look beyond the cryptocurrencies then blockchain is still failing to make impact. It has number of challenges associated with it mainly
+
+It is a great energy consuming platform and over the years when the world is emphasizing on saving the energy ask yourself. Does it make much sense to burn the energy equivalent to
+Switzerland’s annual energy usage just to generate the bitcoin ?
+
+Blockchain mining does not provide network security. The problem is that when miners can assemble a coven (in Bitcoin’s case, >50% of mining power) they can rewrite or alter the blockchain record. If this is possible, the security of data disappears.
+Scalability remains issue. Bitcoin is the most successful blockchain implementation and yet just one in every thousand people can use it. Given its sluggish transaction-processing speed, significantly increasing the number of active users isn’t practical.
+
+
+Beyond Technical Challenges there are number of legal challenges as lots of countries has put the ban on cryptocurrencies and in other countries there is no clear law indicating the bright future. Just before two days Indian government has proposed to launch its digital currency and ban all other crypto currency. This puts lots of question mark on future of crypto currencies but still blockchain remains as one of the strongest alternative to existing technologies.
+
+Though lots of enterprises are ready to invest and adapt the technology, as a whole Blockchain has long way to go before people start accepting it as one of the powerful platform to change the world around us.
